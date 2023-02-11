@@ -6,7 +6,7 @@
 ```php
 
 function calculatePE($currentSharePrice, $earningsPerShare) {
-  return $price / $earnings;
+  return $currentSharePrice / $earningsPerShare;
 }
 
 $currentSharePrice  = 100;
@@ -23,7 +23,7 @@ echo "The P/E ratio is: " . $pe;
 ```javascript
 
 function calculatePE(currentSharePrice, earningsPerShare) {
-  return price / earnings;
+  return currentSharePrice / earningsPerShare;
 }
 
 var currentSharePrice = 100;
