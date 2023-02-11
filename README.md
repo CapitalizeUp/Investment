@@ -1,2 +1,2 @@
 ### Formulas
- * [P/E Ratio](pe-ratio.md)
+ * [P/E Ratio](formulas/pe-ratio.md)
