@@ -1,1 +1,2 @@
-# hints-and-tips
+### Formulas
+ * [P/E Ratio](pe-ratio.md)
