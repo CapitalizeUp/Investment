@@ -37,4 +37,4 @@ console.log("The P/E ratio is: " + pe);
 
 The **calculatePE** function takes in two arguments: currentSharePrice and earningsPerShare, and returns the P/E ratio by dividing currentSharePrice by earningsPerShare. 
 
-Gain an understanding of P/E ratio by visiting https://www.capitalizeup.com/articles/price-earnings-ratio/.
+P/E Ratio Calculator avaliable [https://www.capitalizeup.com/tools/pe-ratio/](https://www.capitalizeup.com/tools/pe-ratio/).
